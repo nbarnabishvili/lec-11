@@ -1,0 +1,83 @@
+@media (max-width: 1230px) {
+    .box {
+        width: 90%;
+    }
+
+    textarea {
+        width: 656px;
+    }
+
+    img {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+@media (max-width: 1150px) {
+    textarea {
+        width: 586px;
+    }
+}
+
+@media (max-width: 1075px) {
+    textarea {
+        width: 520px;
+    }
+
+    .images {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    img {
+        width: 500px;
+        height: 500px;
+        margin: 20px;
+    }
+}
+
+@media (max-width: 1000px) {
+    textarea {
+        width: 720px;
+    }
+    form {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .inputs {
+        width: 720px;
+        margin-top: 25px;
+    }
+
+}
+
+@media (max-width: 738px;) {
+    .contact-container{
+        display: block;
+    }
+}
+
+
+@media (max-width: 987px) {
+    textarea {
+        width: 370px;
+    }
+
+}
+@media (max-width: 987px) {
+    .contact-container {
+        display: block;
+        
+    }
+
+}
+
+@media (max-width: 1844px;) {
+    .box  {
+        max-width: 500px;
+    }
+    
+}
