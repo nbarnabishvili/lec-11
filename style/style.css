@@ -180,8 +180,11 @@ b p {
 }
 
 .uuu{
-    background-color: blueviolet;
+    background-color: black;
     width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
 }
 {
     background-color: blue;
@@ -194,6 +197,7 @@ b p {
 }
 
 .parent h3{
+
     font-family: Helvetica;
     color: white;
     font-size: 30px;
@@ -205,6 +209,7 @@ b p {
 }
 
 .parent p {
+
     font-family: Helvetica;
     
     color: #99999A;
@@ -220,4 +225,28 @@ b p {
 
 .kid{
     width: 300px;
+}
+
+.kidd{
+    width: 200px;
+
+}
+
+.kidd h5{
+    font-family: Helvetica;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 60px;
+    line-height: normal;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.kidd a{
+    font-family: Helvetica;
+    font-weight: 400;
+    size: 17px;
+    line-height: 20px;
+    color: #5863E3;
 }
